@@ -1,0 +1,12 @@
+INSERT INTO tipocambio (id,origen,destino,valor) values (1,'PER','USD',0.29);
+INSERT INTO tipocambio (id,origen,destino,valor) values (2,'PER','MXN',6.40);
+INSERT INTO tipocambio (id,origen,destino,valor) values (3,'PER','CLP',233.79);
+INSERT INTO tipocambio (id,origen,destino,valor) values (4,'USD','PER',3.50);
+INSERT INTO tipocambio (id,origen,destino,valor) values (5,'USD','MXN',22.42);
+INSERT INTO tipocambio (id,origen,destino,valor) values (6,'USD','CLP',819.20);
+INSERT INTO tipocambio (id,origen,destino,valor) values (7,'MXN','PER',0.16);
+INSERT INTO tipocambio (id,origen,destino,valor) values (8,'MXN','USD',0.045);
+INSERT INTO tipocambio (id,origen,destino,valor) values (9,'MXN','CLP',36.55);
+INSERT INTO tipocambio (id,origen,destino,valor) values (10,'CLP','PER',0.0043);
+INSERT INTO tipocambio (id,origen,destino,valor) values (11,'CLP','USD',0.0012);
+INSERT INTO tipocambio (id,origen,destino,valor) values (12,'CLP','MXN',0.027);
